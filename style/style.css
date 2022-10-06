@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+button {
+	font-size: 2rem;
+	padding: 2rem;
+    background-color: #fff;
+    box-shadow: 5px 5px 0 #333;
+    cursor: pointer;
+}
